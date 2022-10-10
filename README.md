@@ -1,7 +1,7 @@
 # PROFILE CARD COMPONENT
 
 #### By _**Gigi Diasamidze**_
-#### _Equalizer || Desktop || Tablet || Mobile Version || Responsive_
+#### _Four Card Featured Website || Desktop || Tablet || Mobile Version || Responsive_
 
 ## Technologies Used
 * _HTML_
